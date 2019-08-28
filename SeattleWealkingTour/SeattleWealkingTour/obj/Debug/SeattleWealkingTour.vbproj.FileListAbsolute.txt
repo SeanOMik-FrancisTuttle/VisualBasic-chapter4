@@ -1,0 +1,12 @@
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.exe.config
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.pdb
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.vbprojAssemblyReference.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.frmWalkingTour.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.Resources.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.vbproj.GenerateResource.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.vbproj.CoreCompileInputs.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.pdb

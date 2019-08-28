@@ -1,0 +1,12 @@
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.vbprojAssemblyReference.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Form1.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Resources.resources
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.vbproj.GenerateResource.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.vbproj.CoreCompileInputs.cache
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.xml
+H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
