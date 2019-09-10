@@ -10,3 +10,15 @@ H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWeal
 H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.exe
 H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.xml
 H:\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\bin\Debug\SeattleWealkingTour.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.vbprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.frmWalkingTour.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.vbproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.vbproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\SeattleWealkingTour\SeattleWealkingTour\obj\Debug\SeattleWealkingTour.pdb

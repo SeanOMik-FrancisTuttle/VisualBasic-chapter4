@@ -10,3 +10,15 @@ H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\b
 H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
 H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.xml
 H:\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.vbprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Form1.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.vbproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.vbproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter4\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
